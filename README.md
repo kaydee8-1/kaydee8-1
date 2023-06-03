@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaydee8-1
-- 👀 I’m interested in cybersecurity, c++ programming and data science
-- 🌱 I’m currently learning what I'm intersted in + Spanish
-- 💞️ I’m looking to collaborate on projects which will help me improve my cybersecurity and programming knowledge
+- 👀 Experience in Python and c++ programming  with dissertation in Machine Learning
+- 🌱 I’m currently improving my profiency in Java
+- 💞️ I’m looking to collaborate on projects which will help me improve my programming and software development knowledge
 
 <!---
 - 📫 How to reach me ...
