@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kaydee8-1
-- 👀 Experience in Python and c++ programming  with dissertation in Machine Learning
-- 🌱 I’m currently improving my profiency in Java
-- 💞️ I’m looking to collaborate on projects which will help me improve my programming and software development knowledge
+- ✨ 1st Class Degreee in Computer Science
+- 👀 Experience in Java, Python and C++ programming with dissertation in Machine Learning and Neural Networks
+- 🌱 Currently seeking opportunity to develop professional skills in Software Development and Data Analytics
+- 💞️ I’m looking to collaborate on projects :))
 
 <!---
 - 📫 How to reach me ...
