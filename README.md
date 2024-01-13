@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaydee8-1
-- ✨ 1st Class Degreee in Computer Science
+- ✨ 1st Class Degree in Computer Science
 - 👀 Experience in Java, Python and C++ programming with dissertation in Machine Learning and Neural Networks
 - 🌱 Currently working on Java and PHP proficiency
 - 💞️ Seeking opportunitIES to develop professional skills in Software Development and Data Analytics
